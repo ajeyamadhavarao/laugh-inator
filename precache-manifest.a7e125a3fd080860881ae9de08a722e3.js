@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a02baaba645b0c190e5ec8be71a577d3",
+    "revision": "1482a43a686f2629f2a8e1867b3a3ed7",
     "url": "/laugh-inator/index.html"
   },
   {
-    "revision": "8ca4a081b84dd8e7f464",
+    "revision": "59865bcec802edb386eb",
     "url": "/laugh-inator/static/css/main.347088cd.chunk.css"
   },
   {
@@ -16,12 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laugh-inator/static/js/2.c66e3625.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ca4a081b84dd8e7f464",
-    "url": "/laugh-inator/static/js/main.914bb687.chunk.js"
-  },
-  {
-    "revision": "341e38e795aec63bb209e8b6d69805eb",
-    "url": "/laugh-inator/static/js/main.914bb687.chunk.js.LICENSE.txt"
+    "revision": "59865bcec802edb386eb",
+    "url": "/laugh-inator/static/js/main.e145cc73.chunk.js"
   },
   {
     "revision": "493a4caea48c0f16ca14",

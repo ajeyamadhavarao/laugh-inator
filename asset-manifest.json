@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/laugh-inator/static/css/main.347088cd.chunk.css",
-    "main.js": "/laugh-inator/static/js/main.914bb687.chunk.js",
-    "main.js.map": "/laugh-inator/static/js/main.914bb687.chunk.js.map",
+    "main.js": "/laugh-inator/static/js/main.e145cc73.chunk.js",
+    "main.js.map": "/laugh-inator/static/js/main.e145cc73.chunk.js.map",
     "runtime-main.js": "/laugh-inator/static/js/runtime-main.c640453a.js",
     "runtime-main.js.map": "/laugh-inator/static/js/runtime-main.c640453a.js.map",
     "static/js/2.c66e3625.chunk.js": "/laugh-inator/static/js/2.c66e3625.chunk.js",
     "static/js/2.c66e3625.chunk.js.map": "/laugh-inator/static/js/2.c66e3625.chunk.js.map",
     "index.html": "/laugh-inator/index.html",
-    "precache-manifest.d6fced82c6e6a076bb76ae5da125bd94.js": "/laugh-inator/precache-manifest.d6fced82c6e6a076bb76ae5da125bd94.js",
+    "precache-manifest.a7e125a3fd080860881ae9de08a722e3.js": "/laugh-inator/precache-manifest.a7e125a3fd080860881ae9de08a722e3.js",
     "service-worker.js": "/laugh-inator/service-worker.js",
     "static/css/main.347088cd.chunk.css.map": "/laugh-inator/static/css/main.347088cd.chunk.css.map",
-    "static/js/2.c66e3625.chunk.js.LICENSE.txt": "/laugh-inator/static/js/2.c66e3625.chunk.js.LICENSE.txt",
-    "static/js/main.914bb687.chunk.js.LICENSE.txt": "/laugh-inator/static/js/main.914bb687.chunk.js.LICENSE.txt"
+    "static/js/2.c66e3625.chunk.js.LICENSE.txt": "/laugh-inator/static/js/2.c66e3625.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c640453a.js",
     "static/js/2.c66e3625.chunk.js",
     "static/css/main.347088cd.chunk.css",
-    "static/js/main.914bb687.chunk.js"
+    "static/js/main.e145cc73.chunk.js"
   ]
 }
