@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laugh-inator/static/css/main.ff31e9f5.chunk.css",
+    "main.js": "/laugh-inator/static/js/main.914bb687.chunk.js",
+    "main.js.map": "/laugh-inator/static/js/main.914bb687.chunk.js.map",
+    "runtime-main.js": "/laugh-inator/static/js/runtime-main.c640453a.js",
+    "runtime-main.js.map": "/laugh-inator/static/js/runtime-main.c640453a.js.map",
+    "static/js/2.c66e3625.chunk.js": "/laugh-inator/static/js/2.c66e3625.chunk.js",
+    "static/js/2.c66e3625.chunk.js.map": "/laugh-inator/static/js/2.c66e3625.chunk.js.map",
+    "index.html": "/laugh-inator/index.html",
+    "precache-manifest.370c45815cacaf3b01f160f16fa137d7.js": "/laugh-inator/precache-manifest.370c45815cacaf3b01f160f16fa137d7.js",
+    "service-worker.js": "/laugh-inator/service-worker.js",
+    "static/css/main.ff31e9f5.chunk.css.map": "/laugh-inator/static/css/main.ff31e9f5.chunk.css.map",
+    "static/js/2.c66e3625.chunk.js.LICENSE.txt": "/laugh-inator/static/js/2.c66e3625.chunk.js.LICENSE.txt",
+    "static/js/main.914bb687.chunk.js.LICENSE.txt": "/laugh-inator/static/js/main.914bb687.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c640453a.js",
+    "static/js/2.c66e3625.chunk.js",
+    "static/css/main.ff31e9f5.chunk.css",
+    "static/js/main.914bb687.chunk.js"
+  ]
+}
